@@ -1,0 +1,21 @@
+body, section, aside, form, footer, li, h1, h2, p, figcaption, label {
+  padding: 0;
+  border: 0;
+  font-family: sans-serif;
+  line-height: 1.5
+}
+
+section, aside, form, footer, li, h1, h2, p, figcaption, label {
+  font-family: inherit;
+  color: inherit;
+
+}
+
+ol, ul {
+  list-style: none;
+
+}
+
+img {
+  width: 100%;
+}
